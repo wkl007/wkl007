@@ -1,12 +1,12 @@
 Hi there，I'm wkl007 👋
 
-🌈 My Github Stats
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=wkl007&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 🎉 My Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkl007&show_icons=true&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+🌈 My Github Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=wkl007&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 🔥 My Wakatime Stats
 
