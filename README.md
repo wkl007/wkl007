@@ -10,7 +10,7 @@ Hi there，I'm wkl007 👋
 
 🔥 My Wakatime Stats
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wkl007&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wkl007&bg_color=00000000&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 Recently I'm coding in...
 
